@@ -1,0 +1,6 @@
+tyttö = input('Anna tyttöjen lukumäärä: ')
+poika = input('Anna poikien lukumäärä: ')
+luku = int(poika)
+luku2 = int(tyttö)
+print('Tyttöjä on', tyttö, 'ja poikia on', poika)
+print('Yhteensä luokalla on', luku + luku2, 'oppilasta.')

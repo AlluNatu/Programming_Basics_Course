@@ -1,0 +1,8 @@
+merkki = input('Anna auton merkki: ')
+malli = input('Anna auton malli: ')
+print('Auto on', merkki + ',', merkki, malli + '.')
+print('')
+eka = input('Anna ensimmäinen sana: ')
+toka = input('Anna toinen sana: ')
+print('Sanoista tulee yhdyssana', "'"+eka+toka+"'"+'.')
+print('Kiitos ohjelman käytöstä.')
