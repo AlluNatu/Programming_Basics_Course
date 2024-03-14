@@ -1,7 +1,7 @@
 ######################################################################
 # CT60A0203 Ohjelmoinnin perusteet
 # Tekijä: Natunen Aleksi
-# Opiskelijanumero: 001153516
+# Opiskelijanumero: -RETRACTED-
 # Päivämäärä: 28.10.2022
 # Kurssin oppimateriaalien lisäksi työhön ovat vaikuttaneet seuraavat
 # lähteet ja henkilöt, ja se näkyy tehtävässä seuraavalla tavalla:
@@ -11,7 +11,8 @@
 # vaikuttaneet siihen yllä mainituilla tavoilla.
 ######################################################################
 # Tehtävä L07T3.py
-# eof
+# eof
+
 
 def Paaohjelma():
     Annettu = input("Anna tiedoston nimi: ")
