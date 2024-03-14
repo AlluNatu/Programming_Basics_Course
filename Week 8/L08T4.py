@@ -1,7 +1,7 @@
 ######################################################################
 # CT60A0203 Ohjelmoinnin perusteet
 # Tekijä: Natunen Aleksi
-# Opiskelijanumero: 001153516
+# Opiskelijanumero: -RETRACTED-
 # Päivämäärä: 4.11.2022
 # Kurssin oppimateriaalien lisäksi työhön ovat vaikuttaneet seuraavat
 # lähteet ja henkilöt, ja se näkyy tehtävässä seuraavalla tavalla:
