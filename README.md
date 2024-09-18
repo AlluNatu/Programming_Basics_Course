@@ -17,3 +17,6 @@ After completing the course, I learned/am able to:
 
   ## Grading
   I got graded 3 out of the 1-5 system in our University.
+
+
+Sadly I have lost the assignment instructions
