@@ -11,7 +11,7 @@ After completing the course, I learned/am able to:
 
     2. Develop a program structure composed of subroutines and libraries that is easy to understand, maintain, and extend.
 
-     3.Create Python programs that can read data shared in CSV format, select relevant information, and perform basic analyses on the data.
+    3. Create Python programs that can read data shared in CSV format, select relevant information, and perform basic analyses on the data.
 
     4. Perform basic testing and quality assessment of a program.
 
