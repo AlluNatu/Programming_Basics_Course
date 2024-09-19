@@ -16,6 +16,64 @@ After completing the course, I learned/am able to:
 
     4. Perform basic testing and quality assessment of a program.
 
+## Course content
+
+**Fundamentals of programming:** 
+
+        - Background, history, and concepts of programming
+        - User needs and programs
+        - Libraries and the benefits and challenges of code reuse
+        - Quality assurance and testing
+        - Data analytics from a programmer's perspective
+        - Programming styles
+        - Program efficiency
+        - Algorithms
+        - Pseudocode
+        - Recursion
+        - Compilers and interpreters
+        - Data representations
+        - ASCII and other character sets
+        - Number systems and their conversions
+        - Interfaces
+        - Documentation
+        - Description techniques
+        - Graphical and command-line interfaces.
+
+**Python programming fundamentals:** 
+
+- Input
+- Output including formatted output
+- Data types
+- Variables
+- Roles of variables
+- Type conversions
+- Calculations
+- Strings
+- Selection structures
+- Conditional code
+- Branching
+- Code blocks
+- Logical operators
+- Menu-based programs
+- Loops
+- Preconditioned and stepwise loops
+- Program structure
+- Defining and calling subroutines
+- Data exchange between programs
+- Namespaces
+- File handling
+- Member variables and functions
+- Structured data types
+- Lists
+- Classes
+- Objects
+- Dictionaries
+- Tuples
+- Libraries
+- Exceptions
+- Errors
+- Debugging
+
   ## Grading
   I got graded 3 out of the 1-5 system in our University.
 
