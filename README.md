@@ -41,38 +41,38 @@ After completing the course, I learned/am able to:
 
 **Python programming fundamentals:** 
 
-- Input
-- Output including formatted output
-- Data types
-- Variables
-- Roles of variables
-- Type conversions
-- Calculations
-- Strings
-- Selection structures
-- Conditional code
-- Branching
-- Code blocks
-- Logical operators
-- Menu-based programs
-- Loops
-- Preconditioned and stepwise loops
-- Program structure
-- Defining and calling subroutines
-- Data exchange between programs
-- Namespaces
-- File handling
-- Member variables and functions
-- Structured data types
-- Lists
-- Classes
-- Objects
-- Dictionaries
-- Tuples
-- Libraries
-- Exceptions
-- Errors
-- Debugging
+    - Input
+    - Output including formatted output
+    - Data types
+    - Variables
+    - Roles of variables
+    - Type conversions
+    - Calculations
+    - Strings
+    - Selection structures
+    - Conditional code
+    - Branching
+    - Code blocks
+    - Logical operators
+    - Menu-based programs
+    - Loops
+    - Preconditioned and stepwise loops
+    - Program structure
+    - Defining and calling subroutines
+    - Data exchange between programs
+    - Namespaces
+    - File handling
+    - Member variables and functions
+    - Structured data types
+    - Lists
+    - Classes
+    - Objects
+    - Dictionaries
+    - Tuples
+    - Libraries
+    - Exceptions
+    - Errors
+    - Debugging
 
   ## Grading
   I got graded 3 out of the 1-5 system in our University.
