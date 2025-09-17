@@ -1,5 +1,5 @@
 # CT60A0203 Ohjelmoinnin perusteet
-This is repository for my course I completed in LUT University while doing my Bachelors Degree in Computer Science.
+This is repository for my course I completed in LUT University while doing my Bachelors Degree in Software Engineering.
 
 This contains my CT60A0203 Ohjelmoinnin perusteet (Basics of Programming) course work (LUT University). The course is worth six (6) ECTS.
 All of in here is my first touch in coding.
